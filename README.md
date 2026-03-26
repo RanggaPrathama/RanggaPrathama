@@ -29,8 +29,8 @@
 
 ```typescript
 const rangga = {
-  role: "Backend & AI Engineer Intern @ ERA Real Estate",
-  education: "B.Sc Informatics Engineering — Universitas Airlangga (2022–Present)",
+  role: "Fullstack Development & AI Enthusiast",
+  education: "Informatics Engineering — Universitas Airlangga",
   location: "Surabaya, Indonesia 🇮🇩",
 
   currentFocus: [
@@ -39,13 +39,6 @@ const rangga = {
     "LLM Integration & Automation",
     "Scalable REST & GraphQL APIs",
   ],
-
-  certifications: [
-    "BNSP — Junior Web Programmer (2024–2027)",
-    "BNSP — Associate Data Scientist (2025–2028)",
-    "Digital Talent Scholarship — Ilmuwan Data Muda (2025–2028)",
-  ],
-
   funFact: "I bridge fullstack engineering with practical AI applications 🤖",
 };
 ```
@@ -84,30 +77,6 @@ const rangga = {
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
----
-
-## 💼 Work Experience
-
-| Period | Role | Company |
-|--------|------|---------|
-| 2025 – Present | Backend & AI Engineer Intern | ERA Real Estate |
-| 2024 – 2025 | Information Systems & Digitalization Intern | Universitas Airlangga — DSID |
-| 2023 – 2024 | Innovation & Educational Development Intern | Universitas Airlangga — DIPP |
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **SIMEDI** | Inventory management system for PERUMDA Perkebunan Kahyangan — stock tracking, logistics & real-time reporting | `Laravel` `Livewire` `MySQL` |
-| **TBCARE** | Digital TB patient monitoring — medication reminders, intake reporting & remote healthcare supervision | `Laravel` `Filament` `PostgreSQL` |
-| **IURIS** | Faculty administrative system for Universitas Airlangga Law Faculty — SKP, scheduling, document legalization | `Laravel` `Alpine.js` `PostgreSQL` |
-| **Kampus Kita Mobile** | Mobile app for Unair students — schedules, GPA tracking & academic information hub | `Flutter` `Dart` |
-| **HRIS Backend API** | Scalable HR backend for Ministry of Defense — recruitment, promotions & performance reviews via SSO | `TypeScript` `Express.js` `GraphQL` `TypeORM` `Keycloak` |
-| **AI Service for HRIS** | LLM-powered analytics — CV extraction, ASN personnel profiling & OCR document pipeline | `Python` `FastAPI` `Gemini Pro` `PaddleOCR` |
-
----
 
 ## 📊 GitHub Stats
 
@@ -127,14 +96,6 @@ const rangga = {
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=RanggaPrathama&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
-
----
-
-## 📜 Certifications
-
-- 🏅 **BNSP — Junior Web Programmer** · Aug 2024 – Aug 2027
-- 🏅 **BNSP — Associate Data Scientist** · Jun 2025 – Jun 2028
-- 🏅 **Digital Talent Scholarship — Ilmuwan Data Muda** · Jul 2025 – Jul 2028
 
 ---
 
