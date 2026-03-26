@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rangga Prathama
+# Hi 👋, I'm Rangga Prathama!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;AI+%26+LLM+Systems+Builder+%F0%9F%A4%96;Informatics+Engineering+%40+Unair+%F0%9F%8E%93;Always+Building%2C+Always+Learning+%F0%9F%9A%80)](https://ranggaprathama.com)
 
